@@ -3,7 +3,7 @@
  * About This Version administration panel.
  *
  * @package WordPress
- * @subpackage Administration
+ * @subpackage Administration 2
  */
 
 /** WordPress Administration Bootstrap */
